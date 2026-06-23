@@ -3,6 +3,17 @@
 
 ### <div align="center">I'm Laura Carlota. Born in Jundiaí, but a São Paulo native at heart. I'm also big on movies, TV shows, and books — _not necessarily in that order!_ </div>
 
+---
+
+
+> ### 🚀 CUPCABLE
+> ###### <a href="https://github.com/alauracarlotta/my_cupcable" target="_blank" title="github.com/alauracarlotta/my_cupcable">🚧 UNDER CONSTRUCTION 🚧 </a> 
+> *This application is currently under heavy development.*  
+> *Features are being added and refined daily.*  
+> *Stay tuned for the official release!* 
+
+</br>
+
 ## ✨ About Me ✨
 - 🛠️ Currently working all the time!  
 - 🌱 Learning to program every day.  
