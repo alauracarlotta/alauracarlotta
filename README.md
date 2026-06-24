@@ -1,7 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=9f57ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+everybody!+👋;Welcome+to+my+profile!"/>
 
-### <div align="center">I'm Laura Carlota. Born in Jundiaí, but a São Paulo native at heart. I'm also big on movies, TV shows, and books — _not necessarily in that order!_ </div>
+<div align="center">
+
+# _A Laura Carlota_
+
+_Frontend Developer • Tattoo Artist • Lifelong Learner_
+
+_Born in Jundiaí, São Paulo at heart 💜_
+
+_Passionate about building beautiful interfaces, solving problems and creating things, whether it's code, tattoos or ideas._
+
+</div>
 
 ---
 
@@ -15,14 +25,35 @@
 </br>
 
 ## ✨ About Me ✨
-- 🛠️ Currently working all the time!  
+- 🛠️ Turning coffee into code.
 - 🌱 Learning to program every day.  
 - 🙌 Looking to collaborate on **Javascript, Typescript, React JS and Next JS**.  
-- 🤓 Looking for help with everything about Front-end, this universe is giant!  
+- 🤓 Always exploring new Front-end techniques and best practices.
 - 💬 Ask me about **CSS**, maybe I can help you!  
 - 📫 Reach me at: <a href="mailto:alauracarlotta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alauracarlotta@gmail.com-D83A7C?style=flat-square&logo=gmail&logoColor=white"></a>  
 - 🚀 Connect with me on <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0073B1?style=flat-square"></a> too!  
-- ⚡ Fun fact: I love <img src="https://img.shields.io/badge/animals-8F49FF?style=flat-square">, <img src="https://img.shields.io/badge/origamis-FFA349?style=flat-square">, <img src="https://img.shields.io/badge/skating-49A5FF?style=flat-square">, and <img src="https://img.shields.io/badge/HQs-00FF00?style=flat-square&color=white">!
+- ⚡ Fun fact:
+  * I love 
+<img src="https://img.shields.io/badge/animals-8F49FF?style=flat-square">,
+<img src="https://img.shields.io/badge/origamis-FFA349?style=flat-square">,
+<img src="https://img.shields.io/badge/HQs-00FF00?style=flat-square&color=white"> and
+  * I`m
+<img src="https://img.shields.io/badge/🎨-Tattoo artist in her spare time-C77EFD?style=flat-square">,
+<img src="https://img.shields.io/badge/🛼-Roller skating enthusiast-9483B6?style=flat-square">,
+<img src="https://img.shields.io/badge/📚-History lover-DFABFC?style=flat-square">,
+<img src="https://img.shields.io/badge/🎬-Breaking Bad fan-9C4EDC?style=flat-square">,
+<img src="https://img.shields.io/badge/🐈-Proud servant of Maggie 🖤-7C2BBD?style=flat-square">.
+
+</br>
+
+</br>
+
+## 📚 Currently Learning 📚
+
+- Flutter
+- Mobile Development
+- Software Architecture
+- TypeScript Advanced Patterns
 
 </br>
 
@@ -34,8 +65,6 @@
   <a href="https://www.instagram.com/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <!--LinkedIn-->
   <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0073B1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB3aWR0aD0iMjAwcHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAxOTIwIDE5MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjRkZGRkZGIj48ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI+PC9nPjxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9nPjxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj48cGF0aCBkPSJNNDc4LjIzNCA2MDAuNVYxOTIwSDAuMDNWNjAwLjc1aDQ3OC4xOThabTcyMC44NTMtMi40Mzh2NzcuNzM3YzY5LjgwNy00NS4wNTYgMTUwLjMwOC03MS4yNDkgMjcyLjM4LTAuNzI0OSAzOTcuNTc3IDAgNDQ4LjUyMSAzMDguNjY2IDQ0OC41MjEgNTc3LjU2MnY3MzcuNjAyaC00ODAuNnYtNzAwLjgzNmMwLTExNy44NjctNDIuMTczLTE0MC4yMTUtMTIwLjE1LTE0MC4yMTUtNzQuMTM0IDAtMTIwLjE1MSAyMy41NS0xMjAuMTUxIDE0MC4yMTV2NzAwLjgzNmgtNDgwLjZWNjAwLjMxbDQ4MC42WiBNMjM5LjA5OSAwdjIzOS4wOThzLTEwNy4xNzQgMjM5LjA5OS0yMzkuMSAyMzkuMDk5QzEwNy4yOTUgNDc4LjE5OCAwIDM3MC45MDQgMCAyMzkuMDk4IDAgMTA3LjI5NSAxMDcuMjk0IDAgMjM5LjA5OSAweiIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9nPjwvc3ZnPg=="></a>
-  <!--Whats-->
-  <a href="https://wa.me/5511987588455" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%12BA2C?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <!--Medium-->
   <a href="https://medium.com/@laura.carlotta" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <!--Gmail-->
@@ -82,3 +111,4 @@
 
 ---
 ✨ Generated with 💜 by *"A Laura Carlotta"* 🫰🏻
+_Code. Eat. Coffee. Repeat._
