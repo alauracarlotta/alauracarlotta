@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# _A Laura Carlota_
+# _A Laura Carlotta_
 
 _Frontend Developer • Tattoo Artist • Lifelong Learner_
 
@@ -26,38 +26,36 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 
 ## ✨ About Me ✨
 - 🛠️ Turning coffee into code.
-- 🌱 Learning to program every day.  
+- 🌱 Continuously learning and improving..  
 - 🙌 Looking to collaborate on **Javascript, Typescript, React JS and Next JS**.  
 - 🤓 Always exploring new Front-end techniques and best practices.
 - 💬 Ask me about **CSS**, maybe I can help you!  
 - 📫 Reach me at: <a href="mailto:alauracarlotta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alauracarlotta@gmail.com-D83A7C?style=flat-square&logo=gmail&logoColor=white"></a>  
 - 🚀 Connect with me on <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0073B1?style=flat-square"></a> too!  
 - ⚡ Fun fact:
-  * I love 
+  * Things I love:
 <img src="https://img.shields.io/badge/animals-8F49FF?style=flat-square">,
-<img src="https://img.shields.io/badge/origamis-FFA349?style=flat-square">,
-<img src="https://img.shields.io/badge/HQs-00FF00?style=flat-square&color=white"> and
-  * I`m
+<img src="https://img.shields.io/badge/origamis-FFA349?style=flat-square"> and
+<img src="https://img.shields.io/badge/HQs-00FF00?style=flat-square&color=white">.  
+  * A little bit about me:
 <img src="https://img.shields.io/badge/🎨-Tattoo artist in her spare time-C77EFD?style=flat-square">,
 <img src="https://img.shields.io/badge/🛼-Roller skating enthusiast-9483B6?style=flat-square">,
 <img src="https://img.shields.io/badge/📚-History lover-DFABFC?style=flat-square">,
-<img src="https://img.shields.io/badge/🎬-Breaking Bad fan-9C4EDC?style=flat-square">,
+<img src="https://img.shields.io/badge/🎬-Breaking Bad fan-9C4EDC?style=flat-square"> and
 <img src="https://img.shields.io/badge/🐈-Proud servant of Maggie 🖤-7C2BBD?style=flat-square">.
 
 </br>
 
-</br>
 
 ## 📚 Currently Learning 📚
 
-- Flutter
-- Mobile Development
-- Software Architecture
-- TypeScript Advanced Patterns
+- 📱 Flutter
+- 📲 Mobile Development
+- 🏗️ Software Architecture
+- ⚙️ TypeScript Advanced Patterns
 
 </br>
 
-</br>
 
 ## ❤️‍🔥 Socials ❤️‍🔥
 <div align="center">
@@ -110,5 +108,5 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 </div>
 
 ---
-✨ Generated with 💜 by *"A Laura Carlotta"* 🫰🏻
-_Code. Eat. Coffee. Repeat._
+✨ Generated with 💜 by *"A Laura Carlotta"* 🫰🏻  
+☕ _Code. Eat. Coffee. Repeat._ ☕
