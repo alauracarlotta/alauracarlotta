@@ -36,12 +36,12 @@ _Passionate about building beautiful interfaces, solving problems and creating t
   * Things I love:
 <img src="https://img.shields.io/badge/animals-8F49FF?style=flat-square">,
 <img src="https://img.shields.io/badge/origamis-FFA349?style=flat-square"> and
-<img src="https://img.shields.io/badge/HQs-00FF00?style=flat-square&color=white">.  
+<img src="https://img.shields.io/badge/Comic Books-00FF00?style=flat-square&color=white">.  
   * A little bit about me:
 <img src="https://img.shields.io/badge/🎨-Tattoo artist in her spare time-C77EFD?style=flat-square">,
 <img src="https://img.shields.io/badge/🛼-Roller skating enthusiast-9483B6?style=flat-square">,
 <img src="https://img.shields.io/badge/📚-History lover-DFABFC?style=flat-square">,
-<img src="https://img.shields.io/badge/🎬-Breaking Bad fan-9C4EDC?style=flat-square"> and
+<img src="https://img.shields.io/badge/🎬-Breaking Bad fan-9C4EDC?style=flat-square">,
 <img src="https://img.shields.io/badge/🐈-Proud servant of Maggie 🖤-7C2BBD?style=flat-square">.
 
 </br>
